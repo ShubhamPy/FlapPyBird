@@ -3,7 +3,7 @@ FlapPyBird
 
 A Flappy Bird Clone made using [python-pygame][pygame]
 
-How-to (as tested on MacOS)
+How-to 
 ---------------------------
 
 1. Install Python 3.x (recommended) 2.x from [here](https://www.python.org/download/releases/)
