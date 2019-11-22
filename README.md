@@ -15,7 +15,7 @@ How-to
 3. Clone the repository:
 
 ```bash
-$ git clone https://github.com/sourabhv/FlapPyBird
+$ git clone https://github.com/shubhamPy/FlapPyBird
 ```
 
 or download as zip and extract.
